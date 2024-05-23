@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RiotMesh.Archdata
+namespace Archdata.Modules
 {
-    public class Class1
+    internal class ADCryptor
     {
-
+        // TODO
     }
 }
