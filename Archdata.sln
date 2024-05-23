@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archdata", "Archdata\Archdata.csproj", "{B9FE3DFB-F1A7-4BE9-8902-4CF0FF30DC36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterApp", "TesterApp\TesterApp.csproj", "{8EEC1D5E-A551-4B37-A8EB-C4C335C6DB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FE3DFB-F1A7-4BE9-8902-4CF0FF30DC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FE3DFB-F1A7-4BE9-8902-4CF0FF30DC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FE3DFB-F1A7-4BE9-8902-4CF0FF30DC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FE3DFB-F1A7-4BE9-8902-4CF0FF30DC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEC1D5E-A551-4B37-A8EB-C4C335C6DB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEC1D5E-A551-4B37-A8EB-C4C335C6DB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEC1D5E-A551-4B37-A8EB-C4C335C6DB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEC1D5E-A551-4B37-A8EB-C4C335C6DB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DFC123B-8AE4-4D3D-9524-FACB3A0D9679}
+	EndGlobalSection
+EndGlobal
