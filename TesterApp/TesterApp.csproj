@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Archdata\Archdata.csproj">
+      <Project>{b9fe3dfb-f1a7-4be9-8902-4cf0ff30dc36}</Project>
+      <Name>Archdata</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
